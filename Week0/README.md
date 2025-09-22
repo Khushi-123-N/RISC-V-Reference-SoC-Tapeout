@@ -125,6 +125,3 @@ python3 --version
 make --version
 python3 -m venv -h
 ```
-
-> **Note:** Screenshots of installed tools are added in the `assets/` folder for reference.
-](https://github.com/Khushi-123-N/RISC-V-Reference-SoC-Tapeout/edit/main/Week0/README.md)](https://github.com/Khushi-123-N/RISC-V-Reference-SoC-Tapeout/edit/main/Week0/README.md)
