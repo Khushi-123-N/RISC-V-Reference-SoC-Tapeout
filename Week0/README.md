@@ -1,4 +1,4 @@
-[[# Week0 README and Assets Structure
+# Week0 README and Assets Structure
 
 # Week 0 – RISC-V Reference SoC Tapeout Program
 
